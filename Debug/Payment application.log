@@ -1,0 +1,6 @@
+﻿  Server.c
+C:\Users\USER\Desktop\my files\EG-FWD\Projects\Payment application\Payment application\Server Module\Server.c(264,47): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t (*)[4]'
+C:\Users\USER\Desktop\my files\EG-FWD\Projects\Payment application\Payment application\Server Module\Server.c(264,35): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+C:\Users\USER\Desktop\my files\EG-FWD\Projects\Payment application\Payment application\Server Module\Server.c(47): warning C4715: 'isBlockedAccount': not all control paths return a value
+C:\Users\USER\Desktop\my files\EG-FWD\Projects\Payment application\Payment application\Server Module\Server.c(62): warning C4715: 'isAmountAvailable': not all control paths return a value
+  Payment application.vcxproj -> C:\Users\USER\Desktop\my files\EG-FWD\Projects\Payment application\x64\Debug\Payment application.exe
